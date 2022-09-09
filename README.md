@@ -1,4 +1,8 @@
-### hello world
+### hello world 🐧
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/143183268571774976)](https://discord.com/users/143183268571774976)
+
+![Metrics](https://metrics.lecoq.io/userbyte?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
 
 <!--
 **userbyte/userbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
